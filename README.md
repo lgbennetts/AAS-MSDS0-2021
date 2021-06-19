@@ -13,22 +13,29 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 ## Organisers
 
 [Cat Vreugdenhil](https://findanexpert.unimelb.edu.au/profile/865785-cat-vreugdenhil) (University of Melbourne)
+
 [Callum Shakespeare](https://earthsciences.anu.edu.au/people/academics/dr-callum-shakespeare) (Australian National University)
+
 [Luke Bennetts](https://luke-bennetts.com) (University of Adelaide)
 
-### Markdown
+## Program (tentative)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Monday 6th
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Eddies, mixing and jets
 
-- Bulleted
-- List
+- Andy Hogg (ANU)
+- Helen Phillips (UTas)
+- Ryan Holmes (UNSW)
+- Shane Keating (UNSW)
+- Trevor McDougall (UNSW)
+
+# Convection and circulation
+
+— Bishakh Gayen (UMel)
+
 
 1. Numbered
 2. List
