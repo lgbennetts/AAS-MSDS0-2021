@@ -2,7 +2,7 @@
 
 It is part of the Australian Academy of Science Elizabeth and Frederick White Research Conference series.
 
-Here is a [flyer](https://github.com/lgbennetts/AAS-MSDS0-2021/MultiscalDynamicsDO.pdf)
+Here is a [flyer](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
 
 You can use the [editor on GitHub](https://github.com/lgbennetts/AAS-MSDS0-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
