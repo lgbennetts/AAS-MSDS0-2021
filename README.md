@@ -24,7 +24,7 @@ Monday 6th Dec
 
 ```markdown
 
-**Eddies, mixing and jets**
+**Eddies, mixing and jets
 
 - Andy Hogg (ANU)
 - Helen Phillips (UTas)
@@ -38,14 +38,21 @@ Tuesday 7th Dec
 
 ```markdown
 
-**Convection and circulation**
+**Internal waves**
 
-- Bishakh Gayen (UMel)
-- Craig McConnochie (Uni Canterbury, NZ)
-- Adele Morrison (ANU)
-- Steve Rintoul (CSIRO)
-- Madi Rosevear (UWA)
-- Matt England (UNSW)
+- Nicole Jones (UWA)
+- Max Nikurashin (UTas)
+- Matt Rayson (UWA)
+- Kial Stewart (ANU)
+- Amelie Meyer (UTas)
+
+**Sea ice and surface processes**
+
+- Craig Stevens (NIWA, NZ)
+- Petra Heil (AAD/UTas)
+- Fabien Montiel (Uni Otago, NZ)
+- Alessandro Toffoli (UMelb)
+- Noa Kraitzman (ANU)
 
 ```
 
