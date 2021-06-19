@@ -1,6 +1,6 @@
 ## About 
 
-The conference is part of the Australian Academy of Science Elizabeth and Frederick White Research Conference series.
+The conference is part of the [Australian Academy of Science Elizabeth and Frederick White Research Conference series](https://www.science.org.au/elizabeth-and-frederick-white-research-conferences).
 
 ## Background
 
@@ -58,6 +58,22 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - Steve Rintoul (CSIRO)
 - Madi Rosevear (UWA)
 - Matt England (UNSW)
+
+### Registration
+
+Coming soon
+
+### Venue
+
+Finkel Lecture Theatre, Australian National University
+
+### Accommodation
+
+Coming soon
+
+### Sponsors
+
+We are grateful for support from the [Australian Academy of Science](https://www.science.org.au) and the [ARC Centre of Excellence for Climate Extremes](https://climateextremes.org.au).
 
 ### Flyer
 
