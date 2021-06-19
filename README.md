@@ -20,11 +20,11 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ## Program (tentative)
 
-Monday 6th
+Monday 6th Dec
 
 ```markdown
 
-### Eddies, mixing and jets
+**Eddies, mixing and jets**
 
 - Andy Hogg (ANU)
 - Helen Phillips (UTas)
@@ -32,7 +32,13 @@ Monday 6th
 - Shane Keating (UNSW)
 - Trevor McDougall (UNSW)
 
-### Convection and circulation
+```
+
+Tuesday 7th Dec
+
+```markdown
+
+**Convection and circulation**
 
 - Bishakh Gayen (UMel)
 - Craig McConnochie (Uni Canterbury, NZ)
@@ -41,7 +47,26 @@ Monday 6th
 - Madi Rosevear (UWA)
 - Matt England (UNSW)
 
+```
 
+Wednesday 8th Dec
+
+```markdown
+
+**Convection and circulation**
+
+- Bishakh Gayen (UMel)
+- Craig McConnochie (Uni Canterbury, NZ)
+- Adele Morrison (ANU)
+- Steve Rintoul (CSIRO)
+- Madi Rosevear (UWA)
+- Matt England (UNSW)
+
+```
+
+
+
+```markdown
 
 1. Numbered
 2. List
