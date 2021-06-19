@@ -13,8 +13,8 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 ## Organisers
 
 [Cat Vreugdenhil](https://findanexpert.unimelb.edu.au/profile/865785-cat-vreugdenhil) (University of Melbourne)
-Callum Shakespeare (Australian National University)
-Luke Bennetts (University of Adelaide)
+[Callum Shakespeare](https://earthsciences.anu.edu.au/people/academics/dr-callum-shakespeare) (Australian National University)
+[Luke Bennetts](https://luke-bennetts.com) (University of Adelaide)
 
 ### Markdown
 
