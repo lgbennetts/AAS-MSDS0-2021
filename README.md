@@ -24,7 +24,7 @@ Monday 6th
 
 ```markdown
 
-# Eddies, mixing and jets
+### Eddies, mixing and jets
 
 - Andy Hogg (ANU)
 - Helen Phillips (UTas)
@@ -32,9 +32,15 @@ Monday 6th
 - Shane Keating (UNSW)
 - Trevor McDougall (UNSW)
 
-# Convection and circulation
+### Convection and circulation
 
-— Bishakh Gayen (UMel)
+- Bishakh Gayen (UMel)
+- Craig McConnochie (Uni Canterbury, NZ)
+- Adele Morrison (ANU)
+- Steve Rintoul (CSIRO)
+- Madi Rosevear (UWA)
+- Matt England (UNSW)
+
 
 
 1. Numbered
