@@ -1,12 +1,20 @@
 ## About the conference
 
-It is part of the Australian Academy of Science Elizabeth and Frederick White Research Conference series.
+The conference is part of the Australian Academy of Science Elizabeth and Frederick White Research Conference series.
 
 Here is a [flyer](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
 
-You can use the [editor on GitHub](https://github.com/lgbennetts/AAS-MSDS0-2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Background
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Southern Ocean controls the flux of heat to Australia’s south, governing the formation of key water masses which drive global ocean circulation, and is the gateway to Antarctica. It has rich dynamics spanning millimetre-scale turbulent mixing, metre-scale surface waves, kilometre-scale convection and eddies, and thousand-kilometre scale atmospheric weather systems.
+
+The Southern Ocean is changing rapidly, and a key research question is whether it can continue soaking up anthropogenic heat and carbon dioxide, and providing other services that mitigate climate change. Numerical models founded on physical laws are the sole means for predicting future scenarios. Higher confidence in models, and hence better resilience for Australian and global communities, requires breakthroughs in understanding dynamics at all scales.
+
+## Organisers
+
+[Cat Vreugdenhil](https://findanexpert.unimelb.edu.au/profile/865785-cat-vreugdenhil) (University of Melbourne)
+Callum Shakespeare (Australian National University)
+Luke Bennetts (University of Adelaide)
 
 ### Markdown
 
