@@ -1,8 +1,6 @@
-## About the conference
+## About 
 
 The conference is part of the Australian Academy of Science Elizabeth and Frederick White Research Conference series.
-
-Here is a [flyer](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
 
 ## Background
 
@@ -12,19 +10,15 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ## Organisers
 
-[Cat Vreugdenhil](https://findanexpert.unimelb.edu.au/profile/865785-cat-vreugdenhil) (University of Melbourne)
-
-[Callum Shakespeare](https://earthsciences.anu.edu.au/people/academics/dr-callum-shakespeare) (Australian National University)
-
-[Luke Bennetts](https://luke-bennetts.com) (University of Adelaide)
+- [Cat Vreugdenhil](https://findanexpert.unimelb.edu.au/profile/865785-cat-vreugdenhil) (University of Melbourne)
+- [Callum Shakespeare](https://earthsciences.anu.edu.au/people/academics/dr-callum-shakespeare) (Australian National University)
+- [Luke Bennetts](https://luke-bennetts.com) (University of Adelaide)
 
 ## Program (tentative)
 
-Monday 6th Dec
+### Monday 6th Dec
 
-```markdown
-
-**Eddies, mixing and jets
+**Eddies, mixing and jets**
 
 - Andy Hogg (ANU)
 - Helen Phillips (UTas)
@@ -32,11 +26,11 @@ Monday 6th Dec
 - Shane Keating (UNSW)
 - Trevor McDougall (UNSW)
 
-```
+**Diversity**
 
-Tuesday 7th Dec
+- Panel TBA
 
-```markdown
+### Tuesday 7th Dec
 
 **Internal waves**
 
@@ -54,11 +48,7 @@ Tuesday 7th Dec
 - Alessandro Toffoli (UMelb)
 - Noa Kraitzman (ANU)
 
-```
-
-Wednesday 8th Dec
-
-```markdown
+### Wednesday 8th Dec
 
 **Convection and circulation**
 
@@ -69,26 +59,6 @@ Wednesday 8th Dec
 - Madi Rosevear (UWA)
 - Matt England (UNSW)
 
-```
+### Flyer
 
-
-
-```markdown
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lgbennetts/AAS-MSDS0-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Click [here](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
