@@ -26,7 +26,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Shane Keating](https://research.unsw.edu.au/people/dr-shane-keating) (University of New South Wales)
 - [Trevor McDougall](https://research.unsw.edu.au/people/scientia-professor-trevor-mcdougall) (University of New South Wales)
 
-**Diversity**
+**Diversity in Southern Ocean science**
 
 - Panel TBA
 
@@ -34,11 +34,11 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 **Internal waves**
 
-- Nicole Jones (UWA)
-- Max Nikurashin (UTas)
-- Matt Rayson (UWA)
-- Kial Stewart (ANU)
-- Amelie Meyer (UTas)
+- [Nicole Jones](https://research-repository.uwa.edu.au/en/persons/nicole-jones) (University of Western Australia)
+- [Max Nikurashin](https://www.utas.edu.au/profiles/staff/imas/max-nikurashin) (University of Tasmania)
+- [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
+- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (ANU)
+- [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
 **Sea ice and surface processes**
 
