@@ -42,22 +42,22 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 **Sea ice and surface processes**
 
-- Craig Stevens (NIWA, NZ)
-- Petra Heil (AAD/UTas)
-- Fabien Montiel (Uni Otago, NZ)
-- Alessandro Toffoli (UMelb)
-- Noa Kraitzman (ANU)
+- [Craig Stevens](https://niwa.co.nz/people/craig-stevens) (NIWA, New Zealand)
+- [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
+- [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
+- [Alessandro Toffoli](https://findanexpert.unimelb.edu.au/profile/771507-alessandro-toffoli) (University of Melbourne)
+- [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
 
 ### Wednesday 8th Dec
 
 **Convection and circulation**
 
-- Bishakh Gayen (UMel)
-- Craig McConnochie (Uni Canterbury, NZ)
-- Adele Morrison (ANU)
-- Steve Rintoul (CSIRO)
-- Madi Rosevear (UWA)
-- Matt England (UNSW)
+- [Bishakh Gayen](https://sites.google.com/site/bishakhdattagayen/) (University of Melbourne)
+- [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
+- [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
+- [Steve Rintoul](https://people.csiro.au/r/s/steve-rintoul) (CSIRO)
+- [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)
+- [Matt England](https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/matthew-england) (University of New South Wales)
 
 ### Registration
 
