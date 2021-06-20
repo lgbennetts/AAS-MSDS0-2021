@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 title: Multiscale Dynamics of the Southern Ocean
 description: Australian National University, 6–8 December 2021
-github: is_project_page: false
+github: 
+  is_project_page: false
