@@ -78,3 +78,5 @@ We are grateful for support from the [Australian Academy of Science](https://www
 ### Flyer
 
 Click [here](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
+
+![AAS logo](AAS Dome_blue.png)
