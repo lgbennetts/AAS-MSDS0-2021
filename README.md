@@ -22,7 +22,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 - [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
 - [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
-- [Ryan Holmes](https://www.ccrc.unsw.edu.au/ccrc-team/alumni/ryan-holmes) (University of New South Wales)
+- [Ryan Holmes](https://rmholmes.github.io/) (University of Sydney)
 - [Shane Keating](https://research.unsw.edu.au/people/dr-shane-keating) (University of New South Wales)
 - [Trevor McDougall](https://research.unsw.edu.au/people/scientia-professor-trevor-mcdougall) (University of New South Wales)
 
