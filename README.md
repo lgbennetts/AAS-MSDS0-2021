@@ -65,7 +65,7 @@ Coming soon
 
 ### Venue
 
-Finkel Lecture Theatre, Australian National University
+[Finkel Lecture Theatre](https://studentvip.com.au/anu/main/maps/146896), Australian National University
 
 ### Accommodation
 
