@@ -37,7 +37,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Nicole Jones](https://research-repository.uwa.edu.au/en/persons/nicole-jones) (University of Western Australia)
 - [Max Nikurashin](https://www.utas.edu.au/profiles/staff/imas/max-nikurashin) (University of Tasmania)
 - [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
-- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (ANU)
+- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
 - [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
 **Sea ice and surface processes**
