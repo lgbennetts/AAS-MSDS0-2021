@@ -61,7 +61,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ### Registration
 
-Coming soon
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScLydxWi88FkmubgfVzKhkKyvJC2dJvO7S__UuijOPL5UuakA/viewform?usp=pp_url&entry.2092238618=Joe,+Bloggs&entry.479301265=University+of+Somewhereville&entry.1753222212=Self-described&entry.1191698629=In+person&entry.1710909845=All&entry.236045689=A+review+of+multiscale+SO+dynamics)
 
 ### Venue
 
