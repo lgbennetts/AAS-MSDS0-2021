@@ -61,7 +61,12 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ### Registration
 
-[Registration form](https://docs.google.com/forms/d/e/1FAIpQLScLydxWi88FkmubgfVzKhkKyvJC2dJvO7S__UuijOPL5UuakA/viewform?usp=pp_url&entry.2092238618=Joe,+Bloggs&entry.479301265=University+of+Somewhereville&entry.1753222212=Self-described&entry.1191698629=In+person&entry.1710909845=All&entry.236045689=A+review+of+multiscale+SO+dynamics)
+Please register you interest to participate in the conference using the [form](https://docs.google.com/forms/d/e/1FAIpQLScLydxWi88FkmubgfVzKhkKyvJC2dJvO7S__UuijOPL5UuakA/viewform?usp=pp_url&entry.2092238618=Joe,+Bloggs&entry.479301265=University+of+Somewhereville&entry.1753222212=Self-described&entry.1191698629=In+person&entry.1710909845=All&entry.236045689=A+review+of+multiscale+SO+dynamics)
+by **Sunday 10th October 2021**.
+
+Due to Covid-19 capacity restrictions, we cannot guarantee all registrations will be accepted.
+
+
 
 ### Venue
 
