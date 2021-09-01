@@ -1,3 +1,7 @@
+## News
+
+**02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
+
 ## About 
 
 The conference is part of the [Australian Academy of Science Elizabeth and Frederick White Research Conference series](https://www.science.org.au/elizabeth-and-frederick-white-research-conferences).
