@@ -1,5 +1,7 @@
 ## News
 
+**27/04/2022: The rescheduled conference will be held on Monday 4th and Tuesday 5th July. More information to follow.
+
 **02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
 
 ## About 
@@ -63,6 +65,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)
 - [Matt England](https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/matthew-england) (University of New South Wales)
 
+<!--
 ### Registration
 
 Please register you interest to participate in the conference using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScLydxWi88FkmubgfVzKhkKyvJC2dJvO7S__UuijOPL5UuakA/viewform)
@@ -70,7 +73,7 @@ by **Sunday 10th October 2021**.
 
 Due to Covid-19 capacity restrictions, we cannot guarantee all registrations will be accepted.
 
-
+-->
 
 ### Venue
 
