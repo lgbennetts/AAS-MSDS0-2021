@@ -1,6 +1,6 @@
 ## News
 
-**27/04/2022: The rescheduled conference will be held on Monday 4th and Tuesday 5th July. More information to follow.
+**27/04/2022: The rescheduled conference will be held on Monday 4th and Tuesday 5th July.** More information to follow.
 
 **02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
 
