@@ -22,19 +22,14 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ## Program (tentative)
 
-### Monday 6th Dec
+### Monday 4th July 2022
 
-**Eddies, mixing and jets**
+**Turbulence**
 
+- [Annie Foppert] (https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
 - [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
 - [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
-- [Ryan Holmes](https://www.ccrc.unsw.edu.au/ccrc-team/alumni/ryan-holmes) (University of New South Wales)
-- [Shane Keating](https://research.unsw.edu.au/people/dr-shane-keating) (University of New South Wales)
-- [Trevor McDougall](https://research.unsw.edu.au/people/scientia-professor-trevor-mcdougall) (University of New South Wales)
-
-**Diversity in Southern Ocean science**
-
-- Panel TBA
+- [Madi Rosevear] (https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia) 
 
 ### Tuesday 7th Dec
 
