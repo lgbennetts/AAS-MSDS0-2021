@@ -26,10 +26,10 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 **Turbulence**
 
-- [Annie Foppert] (https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
+- [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
 - [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
 - [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
-- [Madi Rosevear] (https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia) 
+- [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia) 
 
 **Cryosphere**
 
@@ -37,7 +37,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
 - [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
 - [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
-- [Jordan Pitt] (https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
+- [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
 
 ### Tuesday 5th July 2022
 
