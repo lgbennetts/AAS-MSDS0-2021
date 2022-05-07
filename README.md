@@ -20,7 +20,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Callum Shakespeare](https://earthsciences.anu.edu.au/people/academics/dr-callum-shakespeare) (Australian National University)
 - [Luke Bennetts](https://luke-bennetts.com) (University of Adelaide)
 
-## Program (tentative)
+## Program 
 
 ### Monday 4th July 2022
 
@@ -37,28 +37,25 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
 - [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
 - [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
-- Jordan Pitt
+- [Jordan Pitt] (https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
 
-### Tuesday 7th Dec
+### Tuesday 5th July 2022
+
+**Circulation**
+
+- [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
+- [Paul Spence](https://paulspence.github.io) (University of Tamania)
+- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
+- [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales)
+- [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
 
 **Internal waves**
 
 - [Nicole Jones](https://research-repository.uwa.edu.au/en/persons/nicole-jones) (University of Western Australia)
-- [Max Nikurashin](https://www.utas.edu.au/profiles/staff/imas/max-nikurashin) (University of Tasmania)
 - [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
-- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
 - [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
 
-### Wednesday 8th Dec
-
-**Convection and circulation**
-
-- [Bishakh Gayen](https://sites.google.com/site/bishakhdattagayen/) (University of Melbourne)
-- [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
-- [Steve Rintoul](https://people.csiro.au/r/s/steve-rintoul) (CSIRO)
-- [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)
-- [Matt England](https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/matthew-england) (University of New South Wales)
 
 <!--
 ### Registration
