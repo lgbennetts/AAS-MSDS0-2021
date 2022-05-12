@@ -26,6 +26,8 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ### Monday 4th July 2022
 
+Planned start at 9:50am
+
 **Turbulence**
 
 - [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
@@ -56,6 +58,8 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Nicole Jones](https://research-repository.uwa.edu.au/en/persons/nicole-jones) (University of Western Australia)
 - [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
 - [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
+
+Planned close at 3:45pm
 
 
 ### Registration
