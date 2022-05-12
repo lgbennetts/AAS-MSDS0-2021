@@ -1,6 +1,6 @@
 ## News
 
-**12/05/2022: Please register for the conference using the form on the link at the bottom of the page.**
+**12/05/2022: Please register for the conference by Sunday 22nd May using the form on the link at the bottom of the page.**
 
 **27/04/2022: The rescheduled conference will be held on Monday 4th and Tuesday 5th July 2022.** More information to follow.
 
@@ -61,7 +61,7 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 ### Registration
 
 Please register you interest to participate in the conference using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfiYJOEtRwdrLFUx_BhqmJw8DjR2oOC8JRmjc1NtoTVmLcjzA/viewform?usp=sf_link)
-by **Sunday 22th May 2022**.
+by **Sunday 22nd May 2022**.
 
 ### Venue
 
