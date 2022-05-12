@@ -77,8 +77,10 @@ Coming soon
 
 We are grateful for support from the [Australian Academy of Science](https://www.science.org.au) and the [ARC Centre of Excellence for Climate Extremes](https://climateextremes.org.au).
 
+<!--
 ### Flyer
 
 Click [here](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/MultiscaleDynamicsSO.pdf)
+-->
 
 ![AAS logo](AAS Dome_blue.png)
