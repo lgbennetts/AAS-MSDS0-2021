@@ -1,5 +1,7 @@
 ## News
 
+**12/05/2022: Please register for the conference using the form on the link at the bottom of the page.**
+
 **27/04/2022: The rescheduled conference will be held on Monday 4th and Tuesday 5th July 2022.** More information to follow.
 
 **02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
@@ -56,16 +58,10 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 - [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
 
-
-<!--
 ### Registration
 
-Please register you interest to participate in the conference using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScLydxWi88FkmubgfVzKhkKyvJC2dJvO7S__UuijOPL5UuakA/viewform)
-by **Sunday 10th October 2021**.
-
-Due to Covid-19 capacity restrictions, we cannot guarantee all registrations will be accepted.
-
--->
+Please register you interest to participate in the conference using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfiYJOEtRwdrLFUx_BhqmJw8DjR2oOC8JRmjc1NtoTVmLcjzA/viewform?usp=sf_link)
+by **Sunday 22th May 2022**.
 
 ### Venue
 
