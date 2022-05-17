@@ -6,7 +6,7 @@
 
 **02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
 
-<img src="SODynamics.gif" alt="SO Dynamics gif" style="width:800px" class="center"/>
+<img src="GreyscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
 
 ## About 
 
