@@ -1,4 +1,4 @@
-<img src="GreyscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
+<img src="GrayscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
 
 ## News
 
