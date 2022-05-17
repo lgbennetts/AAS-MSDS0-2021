@@ -1,3 +1,5 @@
+<img src="GreyscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
+
 ## News
 
 **12/05/2022: Please register for the conference by Sunday 22nd May using the form on the link at the bottom of the page.**
@@ -6,7 +8,6 @@
 
 **02/09/2021: The conference has been postponed due to ongoing Covid-19 related travel restrictions.** We aim to reschedule the conference around Easter 2022. More information will appear as the situation develops.
 
-<img src="GreyscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
 
 ## About 
 
