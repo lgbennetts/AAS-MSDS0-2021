@@ -67,20 +67,11 @@ Planned close at 3:45pm
 
 ### Registration
 
-Please register you interest to participate in the conference using the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfiYJOEtRwdrLFUx_BhqmJw8DjR2oOC8JRmjc1NtoTVmLcjzA/viewform?usp=sf_link)
-by **Sunday 22nd May 2022**.
-
-**Registration is free!**
-
-**Speakers do not need to register.**
+Registration is now closed.
 
 ### Venue
 
 [Finkel Lecture Theatre](https://studentvip.com.au/anu/main/maps/146896), Australian National University
-
-### Accommodation
-
-Coming soon
 
 ### Sponsors
 
