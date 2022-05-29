@@ -27,6 +27,8 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 ## Program 
 
+The conference will be held **in person**.
+
 ### Monday 4th July 2022
 
 Planned start at 9:50am
