@@ -60,9 +60,9 @@ Planned start at 9:50am
 
 **Internal waves**
 
-- [Nicole Jones](https://research-repository.uwa.edu.au/en/persons/nicole-jones) (University of Western Australia)
-- [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
 - [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
+- [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
+- [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University)
 
 Planned close at 3:45pm
 
