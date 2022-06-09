@@ -59,9 +59,8 @@ Planned start at 9:50am
 - [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
 
 **Internal waves**
-
-- [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 - [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
+- [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 - [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University)
 
 Planned close at 3:45pm
