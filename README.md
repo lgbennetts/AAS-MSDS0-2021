@@ -31,16 +31,22 @@ The conference will be held **in person**.
 
 ### Monday 4th July 2022
 
-Planned start at 9:50am
+0950 Welcome
 
-**Turbulence**
+**Session 1: Turbulence**
 
-- [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
-- [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
-- [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
-- [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia) 
+1000 [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
+1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
+1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)  
 
-**Cryosphere**
+1135 Morning Tea
+
+1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
+1225 Discussion
+
+1255 Lunch
+
+**Session 2: Cryosphere**
 
 - [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
 - [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
