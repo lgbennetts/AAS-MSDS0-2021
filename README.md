@@ -36,10 +36,12 @@ The conference will be held **in person**.
 **Session 1: Turbulence**
 
 1000 [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania)
+
 1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
+
 1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)  
 
-1135 Morning Tea
+1135 Morning tea
 
 1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
 1225 Discussion
@@ -48,11 +50,21 @@ The conference will be held **in person**.
 
 **Session 2: Cryosphere**
 
-- [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
-- [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
-- [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
-- [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
-- [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
+1355 [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
+
+1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
+
+1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
+
+1530 Afternoon tea 
+
+1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
+
+1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
+
+1645 Discussion
+
+1715 Day 1 close
 
 ### Tuesday 5th July 2022
 
