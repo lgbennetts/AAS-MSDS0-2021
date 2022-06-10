@@ -64,25 +64,41 @@ The conference will be held **in person**.
 
 1645 Discussion
 
-1715 Day 1 close
+1715 Close
+
+1830 Conference dinner
 
 ### Tuesday 5th July 2022
 
-**Circulation**
+**Session 3: Circulation**
 
-- [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
-- [Paul Spence](https://paulspence.github.io) (University of Tamania)
-- [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
-- [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales)
-- [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
+0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
 
-**Internal waves**
-- [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
-- [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
-- [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University)
+0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
 
-Planned close at 3:45pm
+0940 [Paul Spence](https://paulspence.github.io) (University of Tamania)
 
+1005 Morning tea and poster session
+
+1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales)
+
+1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
+
+1150 Discussion
+
+1220 Lunch
+
+**Session 4: Internal waves**
+
+1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
+
+1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
+
+1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University)
+
+1455 Discussion
+
+1525 Close
 
 ### Registration
 
