@@ -44,6 +44,7 @@ The conference will be held **in person**.
 1135 Morning tea
 
 1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
+
 1225 Discussion
 
 1255 Lunch
