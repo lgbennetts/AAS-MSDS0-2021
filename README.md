@@ -117,4 +117,4 @@ We are grateful for support from the [Australian Academy of Science](https://www
 
 Click [here](https://github.com/lgbennetts/AAS-MSDS0-2021/blob/main/AASSODynamics_Poster.png)
 
-![AAS logo](AAS Dome_blue.png)
+![AAS logo](AAS-Dome_blue-200px-wide.png)
