@@ -55,7 +55,7 @@ The conference will be held **in person**.
 
 1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
 
-1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand)
+1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand): Exploring emergent wave and ice dynamics in the marginal ice zone
 
 1530 Afternoon tea 
 
@@ -77,13 +77,13 @@ The conference will be held **in person**.
 
 0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
 
-0940 [Paul Spence](https://paulspence.github.io) (University of Tamania)
+0940 [Paul Spence](https://paulspence.github.io) (University of Tamania): Mulitscale dynamics of the lower MOC
 
 1005 Morning tea and poster session
 
 1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales)
 
-1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University)
+1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University): Eddy-Lee Wave Interactions in the Large Rotating Annulus
 
 1150 Discussion
 
