@@ -61,7 +61,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1530 Afternoon tea 
 
-1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University)
+1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University): Brine inclusions in first-year sea ice
 
 1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
 
