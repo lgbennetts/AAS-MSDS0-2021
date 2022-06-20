@@ -63,7 +63,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University): Brine inclusions in first-year sea ice
 
-1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide)
+1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide): Modelling flexure of ice shelves in response to ocean waves
 
 1645 Discussion
 
