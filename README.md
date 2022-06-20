@@ -29,6 +29,8 @@ The Southern Ocean is changing rapidly, and a key research question is whether i
 
 The conference will be held **in person**.
 
+Speaker are encouraged to leave 5 minutes for questions at the end of their talks.
+
 ### Monday 4th July 2022
 
 0950 Welcome
@@ -53,7 +55,7 @@ The conference will be held **in person**.
 
 1355 [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
 
-1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand)
+1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand): Subglacial discharge, suspended sediment, and melting parameterisations
 
 1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand): Exploring emergent wave and ice dynamics in the marginal ice zone
 
@@ -75,7 +77,7 @@ The conference will be held **in person**.
 
 0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
 
-0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania)
+0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania): A theory of standing meanders of the Antarctic Circumpolar Current and their response to wind
 
 0940 [Paul Spence](https://paulspence.github.io) (University of Tamania): Mulitscale dynamics of the lower MOC
 
