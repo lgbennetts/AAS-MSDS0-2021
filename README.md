@@ -97,7 +97,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
-1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University)
+1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University): The identification and propagation of wind generated near-inertial waves in strong background flows
 
 1455 Discussion
 
