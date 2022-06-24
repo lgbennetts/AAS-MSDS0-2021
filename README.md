@@ -93,7 +93,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 **Session 4: Internal waves**
 
-1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia)
+1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia): Some contrasting aspects of the internal wave dynamics in the Southern Ocean versus lower latitude regions
 
 1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
 
