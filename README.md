@@ -79,7 +79,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania): A theory of standing meanders of the Antarctic Circumpolar Current and their response to wind
 
-0940 [Paul Spence](https://paulspence.github.io) (University of Tamania): Mulitscale dynamics of the lower MOC
+0940 [Paul Spence](https://paulspence.github.io) (University of Tamania): Interannual basal ice shelf melt in the Amundsen Sea linked to shifting coastal winds
 
 1005 Morning tea and poster session
 
