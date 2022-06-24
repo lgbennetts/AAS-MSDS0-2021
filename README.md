@@ -83,7 +83,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1005 Morning tea and poster session
 
-1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales)
+1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales): Water-mass transformations in the Southern Ocean: A modelling and observational perspective
 
 1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University): Eddy-Lee Wave Interactions in the Large Rotating Annulus
 
