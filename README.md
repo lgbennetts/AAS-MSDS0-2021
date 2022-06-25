@@ -95,7 +95,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia): Some contrasting aspects of the internal wave dynamics in the Southern Ocean versus lower latitude regions
 
-1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania)
+1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania): From the Arctic to the Antarctic: internal waves and mixing under sea ice
 
 1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University): The identification and propagation of wind generated near-inertial waves in strong background flows
 
