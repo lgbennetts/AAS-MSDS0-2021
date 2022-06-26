@@ -45,7 +45,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1135 Morning tea
 
-1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University)
+1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University): Do we know what Southern Ocean Eddies are doing, and do we really care?
 
 1225 Discussion
 
