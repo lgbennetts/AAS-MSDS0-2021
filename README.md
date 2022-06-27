@@ -41,7 +41,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
 
-1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia)  
+1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond  
 
 1135 Morning tea
 
