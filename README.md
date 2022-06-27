@@ -39,7 +39,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1000 [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania): Deep Argo reveals bottom water properties and pathways in the Australian Antarctic Basin
 
-1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania)
+1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania): Observations of diapycnal mixing and isopycnal stirring in the Antarctic Circumpolar Current
 
 1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond  
 
