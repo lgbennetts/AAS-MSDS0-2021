@@ -75,7 +75,7 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 **Session 3: Circulation**
 
-0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University)
+0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University): Sensitivity of Antarctic shelf waters and the abyssal overturning to wind and meltwater forcing
 
 0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania): A theory of standing meanders of the Antarctic Circumpolar Current and their response to wind
 
