@@ -41,19 +41,17 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania): Observations of diapycnal mixing and isopycnal stirring in the Antarctic Circumpolar Current
 
-1110 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond  
+Morning tea
 
-1135 Morning tea
+1150 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond  
 
-1200 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University): Do we know what Southern Ocean Eddies are doing, and do we really care?
+1215 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University): Do we know what Southern Ocean Eddies are doing, and do we really care?
 
-1225 Discussion
+1245 Lunch
 
-1255 Lunch
+1400 Discussion
 
 **Session 2: Cryosphere**
-
-1355 [Petra Heil](https://www.antarctica.gov.au/science/meet-our-scientists/dr-petra-heil-sea-ice-scientist/) (Australian Antarctic Program)
 
 1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand): Subglacial discharge, suspended sediment, and melting parameterisations
 
