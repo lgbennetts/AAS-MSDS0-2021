@@ -1,7 +1,7 @@
 <img src="GrayscalePhotoFall.gif" alt="SO Dynamics gif" style="width:600px" class="center"/>
 
 ## News
-**09/07/2022: Recorded talks uploaded. See below for individual talks, or go to the [Playlist](https://www.youtube.com/watch?v=FK2noMsRwUQ&list=PLaRGKQ1Q9FCFuSzI67oZuy1Q8In87-vMe) for all talks. 
+**09/07/2022: Recorded talks uploaded.** See below for individual talks, or go to the [Playlist](https://www.youtube.com/watch?v=FK2noMsRwUQ&list=PLaRGKQ1Q9FCFuSzI67oZuy1Q8In87-vMe) for all talks. 
 
 **12/05/2022: Please register for the conference by Sunday 22nd May using the form on the link at the bottom of the page.**
 
