@@ -38,15 +38,15 @@ Speaker are encouraged to leave 5 minutes for questions at the end of their talk
 
 **Session 1: Turbulence**
 
-1000 [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania): Deep Argo reveals bottom water properties and pathways in the Australian Antarctic Basin [Recording](https://youtu.be/FK2noMsRwUQ)
+1000 [Annie Foppert](https://rmdb.research.utas.edu.au/public/rmdb/q/indiv_detail_warp_trans/55816) (University of Tasmania): Deep Argo reveals bottom water properties and pathways in the Australian Antarctic Basin: [Recording](https://youtu.be/FK2noMsRwUQ)
 
-1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania): Observations of diapycnal mixing and isopycnal stirring in the Antarctic Circumpolar Current [Recording](https://youtu.be/ebnyz_sbElQ)
+1045 [Helen Phillips](https://www.utas.edu.au/profiles/staff/imas/helen-phillips) (University of Tasmania): Observations of diapycnal mixing and isopycnal stirring in the Antarctic Circumpolar Current: [Recording](https://youtu.be/ebnyz_sbElQ)
 
 Morning tea
 
-1150 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond [Recording](https://youtu.be/CnUyn3sMGww)
+1150 [Madi Rosevear](https://research-repository.uwa.edu.au/en/persons/madi-gamble-rosevear) (University of Western Australia): Turbulent processes in the ice shelf-ocean boundary layer and beyond: [Recording](https://youtu.be/CnUyn3sMGww)
 
-1215 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University): Do we know what Southern Ocean Eddies are doing, and do we really care? [Recording](https://youtu.be/AlVE1XnacIU)
+1215 [Andy Hogg](https://earthsciences.anu.edu.au/people/academics/prof-andy-hogg) (Australian  National University): Do we know what Southern Ocean Eddies are doing, and do we really care?: [Recording](https://youtu.be/AlVE1XnacIU)
 
 1245 Lunch
 
@@ -54,15 +54,15 @@ Morning tea
 
 **Session 2: Cryosphere**
 
-1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand): Subglacial discharge, suspended sediment, and melting parameterisations [Recording](https://youtu.be/FqjyLbTlI8k)
+1440 [Craig McConnochie](https://www.canterbury.ac.nz/engineering/contact-us/people/craig-mcconnochie.html) (University of Canterbury, New Zealand): Subglacial discharge, suspended sediment, and melting parameterisations: [Recording](https://youtu.be/FqjyLbTlI8k)
 
-1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand): Exploring emergent wave and ice dynamics in the marginal ice zone [Recording](https://youtu.be/9VUG_-bFyBc)
+1505 [Fabien Montiel](https://www.maths.otago.ac.nz/?people=fabien_montiel) (University of Otago, New Zealand): Exploring emergent wave and ice dynamics in the marginal ice zone: [Recording](https://youtu.be/9VUG_-bFyBc)
 
 1530 Afternoon tea 
 
-1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University): Brine inclusions in first-year sea ice [Recording](https://youtu.be/VrDY2FhVxdU)
+1555 [Noa Kraitzman](https://maths.anu.edu.au/people/academics/noa-kraitzman) (Australian National University): Brine inclusions in first-year sea ice: [Recording](https://youtu.be/VrDY2FhVxdU)
 
-1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide): Modelling flexure of ice shelves in response to ocean waves [Recording](https://youtu.be/d7GPY3oj7W8)
+1620 [Jordan Pitt](https://researchers.adelaide.edu.au/profile/jordan.pitt) (University of Adelaide): Modelling flexure of ice shelves in response to ocean waves: [Recording](https://youtu.be/d7GPY3oj7W8)
 
 1645 Discussion
 
@@ -74,17 +74,17 @@ Morning tea
 
 **Session 3: Circulation**
 
-0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University): Sensitivity of Antarctic shelf waters and the abyssal overturning to wind and meltwater forcing [Recording](https://youtu.be/H9dnJzss0Ss)
+0830 [Adele Morrison](https://earthsciences.anu.edu.au/people/academics/dr-adele-morrison) (Australian National University): Sensitivity of Antarctic shelf waters and the abyssal overturning to wind and meltwater forcing: [Recording](https://youtu.be/H9dnJzss0Ss)
 
-0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania): A theory of standing meanders of the Antarctic Circumpolar Current and their response to wind [Recording](https://youtu.be/TDcJqpbjH1U)
+0915 [Xihan Zhang](http://ecite.utas.edu.au/rmdb/ecite/q/ecite_view_author/55966) (University of Tasmania): A theory of standing meanders of the Antarctic Circumpolar Current and their response to wind: [Recording](https://youtu.be/TDcJqpbjH1U)
 
 0940 [Paul Spence](https://paulspence.github.io) (University of Tamania): Interannual basal ice shelf melt in the Amundsen Sea linked to shifting coastal winds (Not Recorded)
 
 1005 Morning tea and poster session
 
-1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales): Water-mass transformations in the Southern Ocean: A modelling and observational perspective [Recording](https://youtu.be/hTvo3A9gQxg)
+1100 [Taimoor Sohail](https://sites.google.com/view/taimoorsohail/home) (University of New South Wales): Water-mass transformations in the Southern Ocean: A modelling and observational perspective: [Recording](https://youtu.be/hTvo3A9gQxg)
 
-1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University): Eddy-Lee Wave Interactions in the Large Rotating Annulus [Recording](https://youtu.be/gxqT3i4SGvY)
+1125 [Kial Stewart](https://earthsciences.anu.edu.au/people/academics/dr-kial-stewart) (Australian National University): Eddy-Lee Wave Interactions in the Large Rotating Annulus: [Recording](https://youtu.be/gxqT3i4SGvY)
 
 1150 Discussion
 
@@ -92,11 +92,11 @@ Morning tea
 
 **Session 4: Internal waves**
 
-1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia): Some contrasting aspects of the internal wave dynamics in the Southern Ocean versus lower latitude regions [Recording](https://youtu.be/6VGOPYVhM_Y)
+1320 [Matt Rayson](https://research-repository.uwa.edu.au/en/persons/matt-rayson) (University of Western Australia): Some contrasting aspects of the internal wave dynamics in the Southern Ocean versus lower latitude regions: [Recording](https://youtu.be/6VGOPYVhM_Y)
 
-1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania): From the Arctic to the Antarctic: internal waves and mixing under sea ice [Recording](https://youtu.be/i8p3NvhFzEs)
+1405 [Amelie Meyer](https://www.utas.edu.au/profiles/staff/imas/amelie-meyer) (University of Tasmania): From the Arctic to the Antarctic: internal waves and mixing under sea ice: [Recording](https://youtu.be/i8p3NvhFzEs)
 
-1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University): The identification and propagation of wind generated near-inertial waves in strong background flows [Recording](https://youtu.be/eQK5_DdaqAE)
+1430 [Jemima Rama](https://earthsciences.anu.edu.au/people/students/jemima-rama) (Australian National University): The identification and propagation of wind generated near-inertial waves in strong background flows: [Recording](https://youtu.be/eQK5_DdaqAE)
 
 1455 Discussion
 
